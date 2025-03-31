@@ -1,0 +1,10 @@
+---
+title: "README"
+author: "Stephen Dwyer"
+date: "2025-03-31"
+output: pdf_document
+---
+
+# R and GitHub Practice
+This repository contains my practice files for learning
+GitHub integration with R .
